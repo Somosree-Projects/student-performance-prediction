@@ -1,0 +1,5 @@
+Model,Evaluation
+Linear Regression,R2 Score: 0.849
+Logistic Regression,Accuracy: 90.00%
+KNN,Accuracy: 83.08%
+K-Means,Silhouette Score: 0.272
